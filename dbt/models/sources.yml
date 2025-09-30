@@ -1,0 +1,12 @@
+version: 2
+
+sources:
+  - name: clean
+    schema: main               
+    tables:
+      - name: yellow_tripdata_2024
+      - name: green_tripdata_2024
+  - name: lookups
+    schema: main           
+    tables:
+      - name: vehicle_emissions
