@@ -11,4 +11,7 @@ venv/
 *log
 *.csv
 /venv
-venv
+venv/
+.venv/
+**/venv/
+**/.venv/
