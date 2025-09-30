@@ -9,3 +9,6 @@ venv/
 *.csv
 *duckdb
 *log
+*.csv
+/venv
+venv
