@@ -8,3 +8,4 @@ venv/
 *.parquet
 *.csv
 *duckdb
+*log
